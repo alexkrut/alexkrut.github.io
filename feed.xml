@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Hello, my name is</title>
+    <link href="https://alexkrut.github.io/feed.xml" rel="self" />
+    <link href="https://alexkrut.github.io" />
+    <updated>2020-05-28T22:02:55+03:00</updated>
+    <author>
+        <name>Aleksei Krut</name>
+    </author>
+    <id>https://alexkrut.github.io</id>
+
+    <entry>
+        <title>Hello!</title>
+        <author>
+            <name>Aleksei Krut</name>
+        </author>
+        <link href="https://alexkrut.github.io/hello.html"/>
+        <id>https://alexkrut.github.io/hello.html</id>
+
+        <updated>2020-05-28T22:02:42+03:00</updated>
+            <summary>
+                <![CDATA[
+                    My name is Aleksei!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My name is Aleksei!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
