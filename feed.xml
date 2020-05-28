@@ -3,7 +3,7 @@
     <title>Hello, my name is</title>
     <link href="https://alexkrut.github.io/feed.xml" rel="self" />
     <link href="https://alexkrut.github.io" />
-    <updated>2020-05-28T23:50:25+03:00</updated>
+    <updated>2020-05-29T00:16:37+03:00</updated>
     <author>
         <name>Aleksei Krut</name>
     </author>
@@ -19,15 +19,15 @@
             <category term="link"/>
             <category term="c#"/>
 
-        <updated>2020-05-28T23:49:06+03:00</updated>
+        <updated>2020-05-29T00:16:30+03:00</updated>
             <summary>
                 <![CDATA[
-                    [{"id":1590698857045,"type":"publii-html","content":"Hanselman blog","config":{"advanced":{"cssClasses":"","id":""}}}]
+                    [{"id":1590698857045,"type":"publii-html","content":"Hanselman blog\nCoreBoy","config":{"advanced":{"cssClasses":"","id":""}}}]
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                [{"id":1590698857045,"type":"publii-html","content":"<a href=\"https://www.hanselman.com/blog/\">Hanselman blog</a>","config":{"advanced":{"cssClasses":"","id":""}}}]
+                [{"id":1590698857045,"type":"publii-html","content":"<a href=\"https://www.hanselman.com/blog/\">Hanselman blog</a>\n<a href=\"https://github.com/davidwhitney/CoreBoy?WT.mc_id=-blog-scottha\">CoreBoy</a>","config":{"advanced":{"cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
