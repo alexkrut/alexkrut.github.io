@@ -3,12 +3,34 @@
     <title>Hello, my name is</title>
     <link href="https://alexkrut.github.io/feed.xml" rel="self" />
     <link href="https://alexkrut.github.io" />
-    <updated>2020-05-28T22:38:30+03:00</updated>
+    <updated>2020-05-28T23:50:25+03:00</updated>
     <author>
         <name>Aleksei Krut</name>
     </author>
     <id>https://alexkrut.github.io</id>
 
+    <entry>
+        <title>Links</title>
+        <author>
+            <name>Aleksei Krut</name>
+        </author>
+        <link href="https://alexkrut.github.io/links.html"/>
+        <id>https://alexkrut.github.io/links.html</id>
+            <category term="link"/>
+            <category term="c#"/>
+
+        <updated>2020-05-28T23:49:06+03:00</updated>
+            <summary>
+                <![CDATA[
+                    [{"id":1590698857045,"type":"publii-html","content":"Hanselman blog","config":{"advanced":{"cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                [{"id":1590698857045,"type":"publii-html","content":"<a href=\"https://www.hanselman.com/blog/\">Hanselman blog</a>","config":{"advanced":{"cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About Chip Foose</title>
         <author>
