@@ -13,8 +13,8 @@
             "id": "https://alexkrut.github.io/links.html",
             "url": "https://alexkrut.github.io/links.html",
             "title": "Links",
-            "summary": "[{\"id\":1590698857045,\"type\":\"publii-html\",\"content\":\"Hanselman blog\\nCoreBoy\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1590698857045,\"type\":\"publii-html\",\"content\":\"<a href=\\\"https://www.hanselman.com/blog/\\\">Hanselman blog</a>\\n<a href=\\\"https://github.com/davidwhitney/CoreBoy?WT.mc_id=-blog-scottha\\\">CoreBoy</a>\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "summary": "[{\"id\":1590698857045,\"type\":\"publii-html\",\"content\":\"Hanselman blog CoreBoy\\n\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590700725031,\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "content_html": "[{\"id\":1590698857045,\"type\":\"publii-html\",\"content\":\"<p><a href=\\\"https://www.hanselman.com/blog/\\\">Hanselman blog</a></p>\\n<p><a href=\\\"https://github.com/davidwhitney/CoreBoy?WT.mc_id=-blog-scottha\\\">CoreBoy\\n</a></p>\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590700725031,\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
             "author": {
                 "name": "Aleksei Krut"
             },
@@ -23,7 +23,7 @@
                    "c#"
             ],
             "date_published": "2020-05-28T23:48:35+03:00",
-            "date_modified": "2020-05-29T00:16:30+03:00"
+            "date_modified": "2020-05-29T00:19:05+03:00"
         },
         {
             "id": "https://alexkrut.github.io/about-chip-foose.html",
