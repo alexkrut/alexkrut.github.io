@@ -6,7 +6,7 @@
     "feed_url": "https://alexkrut.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "autor"
+        "name": "alexkrut"
     },
     "items": [
         {
@@ -16,12 +16,12 @@
             "summary": "https://wintergatan.net/",
             "content_html": "<p>https://wintergatan.net/</p>",
             "author": {
-                "name": "autor"
+                "name": "alexkrut"
             },
             "tags": [
             ],
-            "date_published": "2020-08-26T17:31:25+03:00",
-            "date_modified": "2020-08-26T17:31:25+03:00"
+            "date_published": "2020-08-26T17:33:09+03:00",
+            "date_modified": "2020-08-26T17:33:09+03:00"
         }
     ]
 }
