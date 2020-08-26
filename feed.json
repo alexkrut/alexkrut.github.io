@@ -5,6 +5,7 @@
     "home_page_url": "https://alexkrut.github.io",
     "feed_url": "https://alexkrut.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://alexkrut.github.io/media/website/f315c856876cadea66c2b8cc21107be4-2.jpg",
     "author": {
         "name": "alexkrut"
     },
@@ -20,8 +21,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-26T17:43:24+03:00",
-            "date_modified": "2020-08-26T17:43:24+03:00"
+            "date_published": "2020-08-26T17:45:08+03:00",
+            "date_modified": "2020-08-26T17:45:08+03:00"
         }
     ]
 }
