@@ -1,60 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hello, my name is",
+    "title": "test",
     "description": "",
     "home_page_url": "https://alexkrut.github.io",
     "feed_url": "https://alexkrut.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://alexkrut.github.io/media/website/9589777980_b82bba9999_o.jpg",
     "author": {
-        "name": "Aleksei Krut"
+        "name": "autor"
     },
     "items": [
-        {
-            "id": "https://alexkrut.github.io/links.html",
-            "url": "https://alexkrut.github.io/links.html",
-            "title": "Links",
-            "summary": "[{\"id\":1590698857045,\"type\":\"publii-html\",\"content\":\"Hanselman blog CoreBoy\\n\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590700725031,\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1590698857045,\"type\":\"publii-html\",\"content\":\"<p><a href=\\\"https://www.hanselman.com/blog/\\\">Hanselman blog</a></p>\\n<p><a href=\\\"https://github.com/davidwhitney/CoreBoy?WT.mc_id=-blog-scottha\\\">CoreBoy\\n</a></p>\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590700725031,\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "author": {
-                "name": "Aleksei Krut"
-            },
-            "tags": [
-                   "link",
-                   "c#"
-            ],
-            "date_published": "2020-05-28T23:48:35+03:00",
-            "date_modified": "2020-05-29T00:19:05+03:00"
-        },
-        {
-            "id": "https://alexkrut.github.io/about-chip-foose.html",
-            "url": "https://alexkrut.github.io/about-chip-foose.html",
-            "title": "About Chip Foose",
-            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Чип Фуз - крутой автомобильный дизайнер, родом из Калифорнии\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694078259,\"type\":\"publii-image\",\"content\":{\"image\":\"https://alexkrut.github.io/media/posts/2/FooseGreeson_crop.jpg\",\"imageHeight\":242,\"imageWidth\":163,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694181583,\"type\":\"publii-paragraph\",\"content\":\"Наиболее известен, как ведущий реалити шоу \\\"Крутой тюнинг\\\". Вот наиболее известные его работы:\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694259666,\"type\":\"publii-gallery\",\"content\":{\"images\":[{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/16a64a98af01ed191f0388bab755ba73-car-drawings-car-garage.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/16a64a98af01ed191f0388bab755ba73-car-drawings-car-garage-thumbnail.jpg\",\"height\":556,\"width\":720,\"dimensions\":\"720x556\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/266e60ff5b1bb47f84b06139d9c4f949.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/266e60ff5b1bb47f84b06139d9c4f949-thumbnail.jpg\",\"height\":431,\"width\":700,\"dimensions\":\"700x431\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/0533d5d1c68490616edc7993748f5e4c.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/0533d5d1c68490616edc7993748f5e4c-thumbnail.jpg\",\"height\":443,\"width\":720,\"dimensions\":\"1300x800\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/ad1508es-960.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/ad1508es-960-thumbnail.jpg\",\"height\":405,\"width\":720,\"dimensions\":\"960x540\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/ClwLHodUkAIjXW6.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/ClwLHodUkAIjXW6-thumbnail.jpg\",\"height\":566,\"width\":720,\"dimensions\":\"814x640\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/Dow0lrqU4AAGllU.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/Dow0lrqU4AAGllU-thumbnail.jpg\",\"height\":711,\"width\":720,\"dimensions\":\"1200x1185\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/DpPd8w8VsAAipsF.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/DpPd8w8VsAAipsF-thumbnail.jpg\",\"height\":467,\"width\":720,\"dimensions\":\"1200x779\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/e65eaf8754ea2048b8b6820f7e71d61b.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/e65eaf8754ea2048b8b6820f7e71d61b-thumbnail.jpg\",\"height\":435,\"width\":700,\"dimensions\":\"700x435\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/EGpJEwWXUAEEbJQ.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/EGpJEwWXUAEEbJQ-thumbnail.jpg\",\"height\":465,\"width\":720,\"dimensions\":\"735x475\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/s1200.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/s1200-thumbnail.jpg\",\"height\":540,\"width\":720,\"dimensions\":\"1200x900\",\"alt\":\"\",\"caption\":\"\"}]},\"config\":{\"imageAlign\":\"center\",\"columns\":3,\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Чип Фуз - крутой автомобильный дизайнер, родом из Калифорнии\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694078259,\"type\":\"publii-image\",\"content\":{\"image\":\"https://alexkrut.github.io/media/posts/2/FooseGreeson_crop.jpg\",\"imageHeight\":242,\"imageWidth\":163,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694181583,\"type\":\"publii-paragraph\",\"content\":\"Наиболее известен, как ведущий реалити шоу \\\"Крутой тюнинг\\\". Вот наиболее известные его работы:\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694259666,\"type\":\"publii-gallery\",\"content\":{\"images\":[{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/16a64a98af01ed191f0388bab755ba73-car-drawings-car-garage.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/16a64a98af01ed191f0388bab755ba73-car-drawings-car-garage-thumbnail.jpg\",\"height\":556,\"width\":720,\"dimensions\":\"720x556\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/266e60ff5b1bb47f84b06139d9c4f949.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/266e60ff5b1bb47f84b06139d9c4f949-thumbnail.jpg\",\"height\":431,\"width\":700,\"dimensions\":\"700x431\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/0533d5d1c68490616edc7993748f5e4c.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/0533d5d1c68490616edc7993748f5e4c-thumbnail.jpg\",\"height\":443,\"width\":720,\"dimensions\":\"1300x800\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/ad1508es-960.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/ad1508es-960-thumbnail.jpg\",\"height\":405,\"width\":720,\"dimensions\":\"960x540\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/ClwLHodUkAIjXW6.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/ClwLHodUkAIjXW6-thumbnail.jpg\",\"height\":566,\"width\":720,\"dimensions\":\"814x640\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/Dow0lrqU4AAGllU.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/Dow0lrqU4AAGllU-thumbnail.jpg\",\"height\":711,\"width\":720,\"dimensions\":\"1200x1185\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/DpPd8w8VsAAipsF.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/DpPd8w8VsAAipsF-thumbnail.jpg\",\"height\":467,\"width\":720,\"dimensions\":\"1200x779\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/e65eaf8754ea2048b8b6820f7e71d61b.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/e65eaf8754ea2048b8b6820f7e71d61b-thumbnail.jpg\",\"height\":435,\"width\":700,\"dimensions\":\"700x435\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/EGpJEwWXUAEEbJQ.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/EGpJEwWXUAEEbJQ-thumbnail.jpg\",\"height\":465,\"width\":720,\"dimensions\":\"735x475\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://alexkrut.github.io/media/posts/2/gallery/s1200.jpg\",\"thumbnailSrc\":\"https://alexkrut.github.io/media/posts/2/gallery/s1200-thumbnail.jpg\",\"height\":540,\"width\":720,\"dimensions\":\"1200x900\",\"alt\":\"\",\"caption\":\"\"}]},\"config\":{\"imageAlign\":\"center\",\"columns\":3,\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "author": {
-                "name": "Aleksei Krut"
-            },
-            "tags": [
-                   "hot rods",
-                   "foose"
-            ],
-            "date_published": "2020-05-28T22:38:20+03:00",
-            "date_modified": "2020-05-28T22:38:20+03:00"
-        },
-        {
-            "id": "https://alexkrut.github.io/hello.html",
-            "url": "https://alexkrut.github.io/hello.html",
-            "title": "Hello!",
-            "summary": "My name is Aleksei!",
-            "content_html": "<p>My name is Aleksei!</p>",
-            "author": {
-                "name": "Aleksei Krut"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-28T22:02:42+03:00",
-            "date_modified": "2020-05-28T22:02:42+03:00"
-        }
     ]
 }
