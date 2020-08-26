@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test",
+    "title": "alexkrut&#x27;s blog",
     "description": "",
     "home_page_url": "https://alexkrut.github.io",
     "feed_url": "https://alexkrut.github.io/feed.json",
@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-26T17:33:09+03:00",
-            "date_modified": "2020-08-26T17:33:09+03:00"
+            "date_published": "2020-08-26T17:38:22+03:00",
+            "date_modified": "2020-08-26T17:38:22+03:00"
         }
     ]
 }
